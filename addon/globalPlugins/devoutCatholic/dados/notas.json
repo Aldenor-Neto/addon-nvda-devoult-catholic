@@ -1,0 +1,113 @@
+[
+    {
+        "titulo": "pentecostes",
+        "versao": "Ave Maria",
+        "livro": "Atos dos Apóstolos",
+        "capitulo": 2,
+        "versiculos": [],
+        "descricao": "O espirito santo repousa sobre os dicipulos em pentecostes e todos compreendem em sua propria lingua, havia povos de varias nações."
+    },
+    {
+        "titulo": "escolha de Matias",
+        "versao": "Ave Maria",
+        "livro": "Atos dos Apóstolos",
+        "capitulo": 1,
+        "versiculos": [],
+        "descricao": "teste \n123 \n456 \n789 \nteste"
+    },
+    {
+        "titulo": "teste de atualização",
+        "versao": "Nova Versão Internacional(NVI)",
+        "livro": "1 Coríntios",
+        "capitulo": 10,
+        "versiculos": [
+            {
+                "numero": 1,
+                "texto": "Porque não quero, irmãos, que vocês ignorem o fato de que todos os nossos antepassados estiveram sob a nuvem e todos passaram pelo mar."
+            },
+            {
+                "numero": 2,
+                "texto": "Em Moisés, todos eles foram batizados na nuvem e no mar."
+            },
+            {
+                "numero": 4,
+                "texto": "e beberam da mesma bebida espiritual; pois bebiam da rocha espiritual que os acompanhava, e essa rocha era Cristo."
+            },
+            {
+                "numero": 5,
+                "texto": "Contudo, Deus não se agradou da maioria deles; por isso os seus corpos ficaram espalhados no deserto."
+            }
+        ],
+        "descricao": "fazendo o teste de criação de notas na atualização do addon.\naldenor neto"
+    },
+    {
+        "titulo": "teste",
+        "versao": "CNBB",
+        "livro": "Gênesis",
+        "capitulo": 1,
+        "versiculos": [
+            {
+                "numero": 6,
+                "texto": "Deus disse: \"Faça-se um firmamento entre as águas, separando umas\ndas outras\"."
+            }
+        ],
+        "descricao": "teste"
+    },
+    {
+        "titulo": "teste nota liturgia",
+        "versao": null,
+        "livro": null,
+        "capitulo": null,
+        "versiculos": [],
+        "descricao": "fazendo um teste de anotações vindo da liturgia"
+    },
+    {
+        "titulo": "teste 02",
+        "versao": null,
+        "livro": null,
+        "capitulo": null,
+        "versiculos": [],
+        "descricao": "testando pela segunda vez a nota na liturgia",
+        "origem": "liturgia"
+    },
+    {
+        "titulo": "teste 03",
+        "versao": null,
+        "livro": null,
+        "capitulo": null,
+        "versiculos": [],
+        "descricao": "atualizando 03 liturgia",
+        "origem": "liturgia"
+    },
+    {
+        "titulo": "teste de nota dentro da biblia",
+        "versao": "CNBB",
+        "livro": "Gênesis",
+        "capitulo": 1,
+        "versiculos": [
+            {
+                "numero": 4,
+                "texto": "Deus viu que a luz era boa. Deus separou a luz das trevas."
+            },
+            {
+                "numero": 5,
+                "texto": "À luz Deus chamou \"dia\" e às trevas chamou \"noite\". Houve uma tarde\ne uma manhã: o primeiro dia."
+            },
+            {
+                "numero": 6,
+                "texto": "Deus disse: \"Faça-se um firmamento entre as águas, separando umas\ndas outras\"."
+            }
+        ],
+        "descricao": "teste dentro da biblia",
+        "origem": "biblia"
+    },
+    {
+        "titulo": "teste",
+        "versao": null,
+        "livro": null,
+        "capitulo": null,
+        "versiculos": [],
+        "descricao": "teste",
+        "origem": "liturgia"
+    }
+]
