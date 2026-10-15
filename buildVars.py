@@ -16,37 +16,36 @@ def _(arg):
 # Add-on information variables
 addon_info = {
 	# add-on Name/identifier, internal for NVDA
-	"addon_name": "addonTemplate",
+	"addon_name": "devoult_catholic",
 	# Add-on summary, usually the user visible name of the addon.
 	# Translators: Summary for this add-on
 	# to be shown on installation and add-on information found in Add-ons Manager.
-	"addon_summary": _("Add-on user visible name"),
+	"addon_summary": _("Devoult Catholic"),
 	# Add-on description
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
-	"addon_description": _("""Description for the add-on.
-It can span multiple lines."""),
+	"addon_description": _("""Devocionario catolico contendo diferentes versões bíblicas, liturgia diaria, catecismo da igreja catolica, santo do dia, meditações e um caderno de notas. Ative a aplicação com o atalho NVDA+CTRL+L. Que a paz de cristo e o amor de Maria esteja sempre com você e sua família."""),
 	# version
-	"addon_version": "x.y",
+	"addon_version": "2.0",
 	# Author(s)
-	"addon_author": "name <name@domain.com>",
+	"addon_author": "Aldenor Neto",
 	# URL for the add-on documentation support
-	"addon_url": None,
+	"addon_url": "https://github.com/Aldenor-Neto/addon-nvda-devoult-catholic/blob/main/readme.md",
 	# URL for the add-on repository where the source code can be found
-	"addon_sourceURL": None,
+	"addon_sourceURL": "https://github.com/Aldenor-Neto/addon-nvda-devoult-catholic",
 	# Documentation file name
-	"addon_docFileName": "readme.html",
+	"addon_docFileName": "readme.md",
 	# Minimum NVDA version supported (e.g. "2018.3.0", minor version is optional)
-	"addon_minimumNVDAVersion": None,
+	"addon_minimumNVDAVersion": "2022.4",
 	# Last NVDA version supported/tested (e.g. "2018.4.0", ideally more recent than minimum version)
-	"addon_lastTestedNVDAVersion": None,
+	"addon_lastTestedNVDAVersion": "2026.2",
 	# Add-on update channel (default is None, denoting stable releases,
 	# and for development releases, use "dev".)
 	# Do not change unless you know what you are doing!
-	"addon_updateChannel": None,
+	"addon_updateChannel": "stable",
 	# Add-on license such as GPL 2
-	"addon_license": None,
+	"addon_license": "GPL 2",
 	# URL for the license document the ad-on is licensed under
-	"addon_licenseURL": None,
+	"addon_licenseURL": "https://www.gnu.org/licenses/gpl-2.0.html",
 }
 
 # Define the python files that are the sources of your add-on.
